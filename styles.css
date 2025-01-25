@@ -1,0 +1,90 @@
+ body {
+    margin: 0;
+ } 
+
+ .head {
+    background-color: #1D3557;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+ }
+
+ .sub-head {
+    background-color: #457b9d;
+    width: 900px;
+    margin: 0 auto 0 auto;
+    padding: 5px 10px 5px 10px;
+    border-radius: 8px;
+ }
+
+.about {
+    text-align: center;
+    background-image: url(gra.webp);
+    background-size: cover;
+    padding: 80px;
+    color: #ffffff;
+}
+
+.things-to-do{
+    background-color: #F1FAEE;
+    height: 250px;
+    padding: 30px 80px 80px 80px;
+    text-align: center;
+    color: #1D3557;
+}
+
+.things {
+    display: flex;
+    justify-content: center;
+}
+
+.owu {
+    padding: 30px;
+    
+    
+}
+
+.stadium {
+    margin-top: 20px;
+    padding: 25px;
+    
+}
+
+.palace {
+    padding: 25px;
+    
+}
+
+.img-all{
+     
+    width: 150px;
+    border-radius: 50%;
+    display: inline;
+    margin-left: 220px;
+    margin-right: 220px;
+    
+}
+
+.avatar {
+    width: 150px;
+    height: 240px;
+    border-bottom: 5px solid #1D3557;
+    border-radius: 5px;
+}
+
+.card {
+    color: #1D3557;
+    margin-top: 50px;
+    width: 400px;
+    height: 294px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: #A8DADC;
+    border-bottom: 8px solid #1D3557;
+    border-radius: 5px;
+}
